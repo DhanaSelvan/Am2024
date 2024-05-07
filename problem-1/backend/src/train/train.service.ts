@@ -8,7 +8,10 @@ export class TrainService {
 
     fetchData(){
         this.trainData = Train;
-        
+        const currentTime = new Date()
+        const afterAvailable = 30
+        const tweleve = new Date(currentTime.getTime()+12*60*60*1000)
+        console.log(tweleve)
         return this.trainData
     }
 
