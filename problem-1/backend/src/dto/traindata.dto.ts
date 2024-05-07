@@ -7,7 +7,7 @@ export const Train = [
             'Minutes': 35,
             'Seconds': 0,
         },
-        'seetsAvailable': {
+        'seatsAvailable': {
             'sleeper': 3,
             'AC': 1
         },
@@ -25,7 +25,7 @@ export const Train = [
             'Minutes': 45,
             'Seconds': 0,
         },
-        'seetsAvailable': {
+        'seatsAvailable': {
             'sleeper': 32,
             'AC': 1
         },
@@ -43,7 +43,7 @@ export const Train = [
             'Minutes': 35,
             'Seconds': 0,
         },
-        'seetsAvailable': {
+        'seatsAvailable': {
             'sleeper': 3,
             'AC': 153
         },
@@ -61,7 +61,7 @@ export const Train = [
             'Minutes': 55,
             'Seconds': 0,
         },
-        'seetsAvailable': {
+        'seatsAvailable': {
             'sleeper': 3,
             'AC': 1
         },
