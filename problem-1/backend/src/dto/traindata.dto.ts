@@ -3,7 +3,7 @@ export const Train = [
         'trainName': 'chennai Exp.',
         'trainNumber': '2341',
         'departureTime': {
-            'Hours': 21,
+            'Hours': 24,
             'Minutes': 35,
             'Seconds': 0,
         },
